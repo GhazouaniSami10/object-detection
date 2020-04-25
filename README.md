@@ -1,6 +1,6 @@
 
-# Covid19 Detection Solution
+# Object detection Dashboard
 
 Live Demonstation
-https://covid19-123.herokuapp.com/
+
 
