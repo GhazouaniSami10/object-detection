@@ -1,0 +1,5 @@
+machine learning il ya sepervise et non survervise
+supervisee les futures qui admit des labels des etiquets 
+non supervise les futures qui n'admt pas des etiquets 
+
+les futures = inputs
